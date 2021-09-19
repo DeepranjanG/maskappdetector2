@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sample_images</folder>
+	<filename>image15.jpg</filename>
+	<path>F:\Computer Vision Fast Track\mask_app_detector\sample_images\image15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>37</ymin>
+			<xmax>497</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>
