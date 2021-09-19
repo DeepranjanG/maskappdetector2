@@ -1,6 +1,7 @@
 Flask
+
+tensorflow-cpu==1.14.0
 flask_cors
-tensorflow-cpu==1.14
 opencv-contrib-python==4.1.1.26
 object_detection-0.0.3.tar
 gunicorn==20.1.0
